@@ -8,7 +8,7 @@ Official site : https://git-scm.com/
 Setup Tutorial : https://www.atlassian.com/git/tutorials/install-git
 
 ## Code Editor Install
-Direct download : https://code.visualstudio.com/ \n
+Direct download : https://code.visualstudio.com/ 
 Setup Tutorial : https://code.visualstudio.com/docs/setup/setup-overview
 
 ## Github workflow
