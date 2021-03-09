@@ -4,11 +4,11 @@
 ![Screenshot from 2021-03-09 09-56-47](https://user-images.githubusercontent.com/43840499/110418589-db383400-80bd-11eb-85ef-d7962a11038a.png)
 
 ## Git Install 
-Official site : https://git-scm.com/
+Official site : https://git-scm.com/ 
 Setup Tutorial : https://www.atlassian.com/git/tutorials/install-git
 
 ## Code Editor Install
-Direct download : https://code.visualstudio.com/
+Direct download : https://code.visualstudio.com/ \n
 Setup Tutorial : https://code.visualstudio.com/docs/setup/setup-overview
 
 ## Github workflow
